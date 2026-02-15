@@ -16,7 +16,11 @@ Never miss a Berlinale screening again.
 
 **English** | [中文](docs/README_zh.md) | [Fran&ccedil;ais](docs/README_fr.md) | [Deutsch](docs/README_de.md) | [Espa&ntilde;ol](docs/README_es.md) | [Portugu&ecirc;s](docs/README_pt.md) | [日本語](docs/README_ja.md) | [한국어](docs/README_ko.md)
 
-<video src="https://github.com/Rswcf/berlinale-ticket-buyer/raw/main/demo.mp4" width="800" autoplay loop muted playsinline></video>
+<a href="https://github.com/Rswcf/berlinale-ticket-buyer/blob/main/demo.mp4">
+  <img src="demo.gif" alt="Berlinale Ticket Buyer Demo — click to watch full video" width="800" />
+</a>
+
+*Click the GIF above to watch the full demo video with sound*
 
 </div>
 

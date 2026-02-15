@@ -16,6 +16,8 @@ Never miss a Berlinale screening again.
 
 **English** | [中文](docs/README_zh.md) | [Fran&ccedil;ais](docs/README_fr.md) | [Deutsch](docs/README_de.md) | [Espa&ntilde;ol](docs/README_es.md) | [Portugu&ecirc;s](docs/README_pt.md) | [日本語](docs/README_ja.md) | [한국어](docs/README_ko.md)
 
+<img src="demo.gif" alt="Berlinale Ticket Buyer Demo" width="800" />
+
 </div>
 
 ---

@@ -1,0 +1,21 @@
+// Exact colors from the real Berlinale Ticket Buyer UI
+export const theme = {
+  bg: "#0d0d0d",
+  bgCard: "#1a1a1a",
+  bgCardHover: "#222",
+  bgSurface: "#141414",
+  text: "#e8e8e8",
+  textSecondary: "#999",
+  textDim: "#666",
+  accent: "#e3234a",
+  accentHover: "#ff3358",
+  green: "#22c55e",
+  yellow: "#eab308",
+  red: "#ef4444",
+  blue: "#3b82f6",
+  border: "#2a2a2a",
+  radius: 8,
+  radiusLg: 12,
+  font: "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif",
+  mono: "'SF Mono', 'Fira Code', Consolas, monospace",
+};

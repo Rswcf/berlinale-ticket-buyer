@@ -11,6 +11,13 @@ data/tasks.json
 .claude/
 CLAUDE.md
 
+# === Demo video (Remotion) ===
+demo-video/node_modules/
+demo.mp4
+
+# === Working drafts ===
+data/legal_drafts.md
+
 # === Python ===
 __pycache__/
 *.py[cod]
